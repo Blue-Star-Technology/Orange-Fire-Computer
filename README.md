@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Orange-Fire-Computer
+- 👋 Hi!
 - 👀 I’m interested in Computers and coding
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on helping people build apps
