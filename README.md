@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on helping people build apps
 - 📫 How to reach me, idk
+- 🔥 My old name on GitHub was Orange-Fire-Computer so that's why this repo is called Orange-Fire-Computer (I know pretty cringe)
 
 
 
